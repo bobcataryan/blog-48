@@ -1,0 +1,29 @@
+#show_sketch{
+    float: right;
+    margin-right: 100px;
+}
+
+h1{
+    background-color: beige;
+    padding: 15px;
+}
+
+#score{
+    float: left;
+    margin-left: 100px;
+}
+
+
+#timer{
+    float: right;
+    margin-right: 100px;
+}
+#sketch{
+    color: red;
+}
+body{
+    background-color: lightgreen;
+}
+#center{
+    font-size:  20;
+}
